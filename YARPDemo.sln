@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YARPDemo", "YARPDemo\YARPDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YarpGateway", "YarpGateway\YarpGateway.csproj", "{2B3A0D70-37F6-46F6-A803-8ADDBADBF580}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebsiteUpgrade", "WebsiteUpgrade\WebsiteUpgrade.csproj", "{A2C00DC7-B36B-45C5-8862-F11FBCCBA075}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2B3A0D70-37F6-46F6-A803-8ADDBADBF580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B3A0D70-37F6-46F6-A803-8ADDBADBF580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B3A0D70-37F6-46F6-A803-8ADDBADBF580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C00DC7-B36B-45C5-8862-F11FBCCBA075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C00DC7-B36B-45C5-8862-F11FBCCBA075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C00DC7-B36B-45C5-8862-F11FBCCBA075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C00DC7-B36B-45C5-8862-F11FBCCBA075}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
