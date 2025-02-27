@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YARPDemo", "YARPDemo\YARPDemo.csproj", "{C73F2781-2CCA-4DE3-9EE0-6AB69E16A455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YarpGateway", "YarpGateway\YarpGateway.csproj", "{2B3A0D70-37F6-46F6-A803-8ADDBADBF580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C73F2781-2CCA-4DE3-9EE0-6AB69E16A455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73F2781-2CCA-4DE3-9EE0-6AB69E16A455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73F2781-2CCA-4DE3-9EE0-6AB69E16A455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73F2781-2CCA-4DE3-9EE0-6AB69E16A455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3A0D70-37F6-46F6-A803-8ADDBADBF580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3A0D70-37F6-46F6-A803-8ADDBADBF580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3A0D70-37F6-46F6-A803-8ADDBADBF580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3A0D70-37F6-46F6-A803-8ADDBADBF580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B66578E-6604-4CC9-B0BE-D9C55B2E69E8}
+	EndGlobalSection
+EndGlobal
